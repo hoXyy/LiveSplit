@@ -5857,5 +5857,15 @@
     <Type>Script</Type>
     <Description>Load removal. Automatic splitting.</Description>
   </AutoSplitter>
+ <AutoSplitter>
+    <Games>
+      <Game>Grand Theft Auto</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/hoXyy/Livesplit.Autosplitters/master/LiveSplit.GTA.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Automatic timer start, splits and in-game time available. (By hoxi, with help of KZ_FREW)</Description>
+  </AutoSplitter>	
 </AutoSplitters>
 
